@@ -49,5 +49,3 @@ I'm **Ilya Oreshin**, a student of the [Information Technologies and Programming
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=volkaris&theme=radical)](https://git.io/streak-stats)
-
-[![volkaris's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=volkaris&layout=compact&langs_count=10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
