@@ -1,5 +1,5 @@
 
-I'm **Ilya Oreshin**, a student of the [Information Technologies and Programming](https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm) group M3205 department at the [ITMO University](https://en.itmo.ru/en/) in Petrograd,Russian Federation.
+I'm **Ilya Oreshin**, a student of the [Information Technologies and Programming](https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm) group M3305 department at the [ITMO University](https://en.itmo.ru/en/) in Petrograd,Russian Federation.
 
 
 
