@@ -1,18 +1,8 @@
 
-I'm **Ilya Oreshin**, a student of the [Information Technologies and Programming](https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm) group M3301 department at the [ITMO University](https://en.itmo.ru/en/) in Petrograd,Russian Federation.
-
-
-
 ![volkaris trophy](https://github-profile-trophy.vercel.app/?username=volkaris)
 
 
 ## 🧰 &nbsp;My toolbox
-
-### &nbsp; &nbsp; &nbsp; 🔗 &nbsp;Links
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[<img align="left" alt="volkaris | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-
-[telegram]: https://t.me/volkaris
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
